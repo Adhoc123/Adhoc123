@@ -30,7 +30,8 @@
 🔹 **μ-Net: Colorectal Polyp Segmentation with XAI**  
 Repository: https://github.com/Adhoc123/mu-net-polyp-segmentation  
 
-> A novel multi-scale encoder–decoder architecture integrating CBAM attention and Explainable AI for clinically reliable polyp segmentation.
+> A novel multi-scale encoder–decoder segmentation architecture integrating CBAM attention and Explainable AI to improve robustness, interpretability, and clinical reliability in colorectal polyp segmentation.
+
 
 ---
 
