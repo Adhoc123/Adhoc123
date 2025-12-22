@@ -55,7 +55,6 @@ Repository: https://github.com/Adhoc123/mu-net-polyp-segmentation
 📫 **Contact**  
 Email: mehedihasanemon3913@gmail.com  
 LinkedIn: https://www.linkedin.com/in/emon123/
-
 Google Scholar: https://scholar.google.com/citations?hl=ko&user=5GxPRHYAAAAJ
 
 ## License
