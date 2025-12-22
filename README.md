@@ -57,5 +57,6 @@ Repository: https://github.com/Adhoc123/mu-net-polyp-segmentation
 
 
 ## License
-This repository is released for academic and research use only.
+This repository is intended for academic and research use only.  
+Code and data sharing are subject to dataset licensing and institutional approvals.
 
