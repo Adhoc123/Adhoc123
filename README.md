@@ -1,8 +1,5 @@
 # Mehedi Hasan Emon
 
-![Code Status](https://img.shields.io/badge/code-status--to--be--released-yellow)
-
-
 🎓 M.Sc. in Computer Engineering (AI & Medical Imaging)  
 🏥 Research Assistant, Smart Computing Lab (SCL), Inje University  
 📍 Gimhae, South Korea  
