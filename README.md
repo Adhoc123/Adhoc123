@@ -23,7 +23,7 @@
 
 - *Polyp Segmentation Using Deep Learning Techniques and Explainable Artificial Intelligence*  
   *KIICE / ICFICE 2025 Conference*
-
+ 🔗 https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12303851
 ---
 
 ## 🧠 Featured Research
