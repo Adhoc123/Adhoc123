@@ -22,7 +22,7 @@
   🔗 https://www.mdpi.com/2075-4418/15/22/2890
 
 - *Polyp Segmentation Using Deep Learning Techniques and Explainable Artificial Intelligence*  
-  *KIICE / ICFICE 2025 Conference*
+  *KIICE / ICFICE 2025 Conference*  
  🔗 https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12303851
 ---
 
